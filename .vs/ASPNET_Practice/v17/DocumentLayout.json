@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,24 @@
       "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\models\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|c:\\hyhuynh\\truecoders\\repos\\aspnet_practice\\aspnet_practice\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8D6EE1-5881-40AF-B2BE-261495C23469}|ASPNET_Practice\\ASPNET_Practice.csproj|solutionrelative:aspnet_practice\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertProduct.cshtml",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\InsertProduct.cshtml",
+              "RelativeDocumentMoniker": "ASPNET_Practice\\Views\\Product\\InsertProduct.cshtml",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\InsertProduct.cshtml*",
+              "RelativeToolTip": "ASPNET_Practice\\Views\\Product\\InsertProduct.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:10:45.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASPNET_Practice\\Models\\Product.cs",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\Product.cs*",
+              "RelativeToolTip": "ASPNET_Practice\\Models\\Product.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:52:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ASPNET_Practice\\Models\\Category.cs",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\Category.cs*",
+              "RelativeToolTip": "ASPNET_Practice\\Models\\Category.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:50:45.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "ASPNET_Practice\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "ASPNET_Practice\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T11:40:52.165Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,20 +108,20 @@
               "RelativeDocumentMoniker": "ASPNET_Practice\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\Index.cshtml*",
               "RelativeToolTip": "ASPNET_Practice\\Views\\Product\\Index.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-01T19:51:37.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ViewProduct.cshtml",
               "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\ViewProduct.cshtml",
               "RelativeDocumentMoniker": "ASPNET_Practice\\Views\\Product\\ViewProduct.cshtml",
-              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\ViewProduct.cshtml*",
-              "RelativeToolTip": "ASPNET_Practice\\Views\\Product\\ViewProduct.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Views\\Product\\ViewProduct.cshtml",
+              "RelativeToolTip": "ASPNET_Practice\\Views\\Product\\ViewProduct.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-01T19:50:37.563Z",
               "EditorCaption": ""
@@ -66,7 +134,7 @@
               "RelativeDocumentMoniker": "ASPNET_Practice\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Controllers\\ProductController.cs*",
               "RelativeToolTip": "ASPNET_Practice\\Controllers\\ProductController.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA3wB8AAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAA9wDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T19:46:52.596Z",
               "EditorCaption": ""
@@ -77,22 +145,22 @@
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_Practice\\Models\\ProductRepository.cs",
-              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\ProductRepository.cs",
-              "RelativeToolTip": "ASPNET_Practice\\Models\\ProductRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADwvxQAAABNAAAA",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\ProductRepository.cs*",
+              "RelativeToolTip": "ASPNET_Practice\\Models\\ProductRepository.cs*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwCoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T19:18:39.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_Practice\\Models\\IProductRepository.cs",
-              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\IProductRepository.cs",
-              "RelativeToolTip": "ASPNET_Practice\\Models\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\ASPNET_Practice\\ASPNET_Practice\\Models\\IProductRepository.cs*",
+              "RelativeToolTip": "ASPNET_Practice\\Models\\IProductRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T19:17:24.432Z",
               "EditorCaption": ""
